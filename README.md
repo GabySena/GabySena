@@ -2,12 +2,16 @@
 
  <h2>Sobre mim⭐</h2>
 
- <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e Git, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
+ <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
 
 
  <h2>Tecnologias e ferramentas que uso 🛠</h2>
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
+
+<h2>Estatísticas</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabySena)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 

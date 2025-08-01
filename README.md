@@ -9,8 +9,8 @@
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 
-<h2>Estatísticas</h2>
-![GabySena's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical)
+<h2>Estatísticas📊</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
 
 
  

@@ -1,6 +1,6 @@
  <h1 align="center">Olá sou a Gaby, e seja bem vindo ao meu perfil🍓</h1>
 
- <img height="180em" src="https://github.com/GabySena/GabySena/blob/main/assets/ChatGPT%20Image%201%20de%20ago.%20de%202025%2C%2010_53_03.png">
+ <img align="center" height="200em" src="https://github.com/GabySena/GabySena/blob/main/assets/ChatGPT%20Image%201%20de%20ago.%20de%202025%2C%2010_53_03.png">
  
 
  <h2>Sobre mim⭐</h2>

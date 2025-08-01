@@ -10,7 +10,7 @@
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 
 <h2>Estatísticas</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabySena)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabySena)](https://github.com/GabySena/github-readme-stats)
 
 
  

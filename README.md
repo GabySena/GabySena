@@ -1,8 +1,4 @@
  <h1 align="center">Olá sou a Gaby, e seja bem vindo ao meu perfil🍓</h1>
-
- <div>
-  <img width="800px" src="/assets/banner.png">
- </div>
  
 
  <h2>Sobre mim⭐</h2>

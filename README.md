@@ -1,4 +1,6 @@
-## Olá sou a Gaby, e seja bem vindo ao meu perfil👋
+ <h1 align="center">Olá sou a Gaby, e seja bem vindo ao meu perfil👋</h1>
+
+
 
 <!--
 **GabySena/GabySena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

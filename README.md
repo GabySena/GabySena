@@ -10,7 +10,7 @@
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 
 <h2>Estatísticas📊</h2>
-<div>
+<div align="center">
 <a href="https://github.com/GabySena">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabySena&layout=compact&langs_count=10&theme=dracula"/>

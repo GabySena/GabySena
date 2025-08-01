@@ -11,10 +11,10 @@
 
 <h2>Estatísticas📊</h2>
 <div align="center">
-<a href="https://github.com/GabySena">
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabySena&layout=compact&langs_count=10&theme=dracula"/>
-</a>
+ <a href="https://github.com/GabySena">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabySena&layout=compact&langs_count=10&theme=dracula"/>
+ </a>
 </div>
 
 <h2>Contato e redes🌐</h2>

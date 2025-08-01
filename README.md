@@ -1,8 +1,13 @@
  <h1 align="center">Olá sou a Gaby, e seja bem vindo ao meu perfil🍓</h1>
 
- <h2>Sobre mim⭐</h3>
+ <h2>Sobre mim⭐</h2>
 
  <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e Git, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
+
+
+ <h2>Tecnologias e ferramentas que uso 💻</h2>
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 
  
 

@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
 
 <h2>Contato e redes🌐</h2>
-<p>💼LinkdIn: [www.linkedin.com/in/gabrielly-sena-233aaa359)</p>
+<p>💼Linkdin: [www.linkedin.com/in/gabrielly-sena-233aaa359)</p>
 <p>💌Email: ribeirodelimasena@gmail.com</p>
 
 

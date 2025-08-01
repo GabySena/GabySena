@@ -11,10 +11,12 @@
 
 <h2>Estatísticas📊</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabySena&layout=compact&langs_count=10&theme=dracula"/>
 
 <h2>Contato e redes🌐</h2>
 <p>💼Linkdin: [www.linkedin.com/in/gabrielly-sena-233aaa359)</p>
 <p>💌Email: ribeirodelimasena@gmail.com</p>
+<p>🌷Portfólio: [https://portfolio-gaby.onrender.com)</p>
 
 
  

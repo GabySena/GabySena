@@ -3,13 +3,13 @@
 </div>
 <p align="center">
   <a href="www.linkedin.com/in/gabrielly-sena-233aaa359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-_-?style=for-the-badge&logo=linkedin&logoColor=white&color=f3aeba" alt="LinkedIn">
   </a>
   <a href="ribeirodelimasena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-_-?style=for-the-badge&logo=gmail&logoColor=white&color=f3aeba" alt="Email">
   </a>
   <a href="https://portfolio-gaby.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">
+   <img src="https://img.shields.io/badge/Portfólio-_-?style=for-the-badge&logo=about-dot-me&logoColor=white&color=f3aeba" alt="Portfólio">
   </a>
 </p>
 

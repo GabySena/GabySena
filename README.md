@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn"          >
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Email"                >
   </a>
   <a href="https://seuportifolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">

@@ -1,15 +1,16 @@
 <div>
  <img src="https://github.com/GabySena/GabySena/blob/main/assets/gaby.banner.png">
 </div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-_-?style=for-the-badge&logo=linkedin&logoColor=white&color=f3aeba" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-_-?style=for-the-badge&logo=gmail&logoColor=white&color=f3aeba" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Email">
   </a>
   <a href="https://seuportifolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-_-?style=for-the-badge&logo=about-dot-me&logoColor=white&color=f3aeba" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">
   </a>
 </p>
 

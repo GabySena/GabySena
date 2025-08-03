@@ -31,6 +31,14 @@
 
 
  <h2>Tecnologias e ferramentas que uso 🛠</h2>
+ <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-f3aeba?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-f3aeba?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f3aeba?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f3aeba?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-f3aeba?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-f3aeba?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 

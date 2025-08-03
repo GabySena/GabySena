@@ -15,14 +15,14 @@
 </p>
 
 
- <h2>Sobre mim⭐</h2>
+ <h2>Sobre mim🍓</h2>
 
  <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
  <h4>Soft skills🧠</h4> 
  <p>
 - Trabalho em equipe 🤝<br>  
 - Proatividade e autonomia 🚀 <br>
-- Organização e gestão do tempo 📅 <br>  
+- Organização e gestão do tempo⏰ <br>  
 - Criatividade e pensamento crítico 💡 <br>
 - Resiliência e vontade de aprender 🌻
 </p>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/VS Code-f3aeba?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<h2>Estatísticas📊</h2>
+<h2>Estatísticas⭐</h2>
 <div align="center">
  <a href="https://github.com/GabySena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats"/>

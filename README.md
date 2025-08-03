@@ -40,8 +40,6 @@
   <img src="https://img.shields.io/badge/VS Code-f3aeba?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
-
 <h2>Estatísticas📊</h2>
 <div align="center">
  <a href="https://github.com/GabySena">

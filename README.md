@@ -31,7 +31,7 @@
 
 
  <h2>Tecnologias e ferramentas que uso 🛠</h2>
- <p align="center">
+ <p align="left">
   <img src="https://img.shields.io/badge/HTML5-f3aeba?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-f3aeba?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-f3aeba?style=for-the-badge&logo=javascript&logoColor=white" />

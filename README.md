@@ -49,7 +49,7 @@
 </div>
 
 <div>
- <img src="https://br.pinterest.com/pin/106819822408306178/">
+ <img src="https://github.com/GabySena/GabySena/blob/main/assets/download.gif">
 </div>
 
 

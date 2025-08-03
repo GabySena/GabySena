@@ -2,13 +2,13 @@
  <img src="https://github.com/GabySena/GabySena/blob/main/assets/gaby.banner.png">
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+  <a href="www.linkedin.com/in/gabrielly-sena-233aaa359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="ribeirodelimasena@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://seuportifolio.com" target="_blank">
+  <a href="https://portfolio-gaby.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">
   </a>
 </p>

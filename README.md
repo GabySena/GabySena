@@ -2,11 +2,6 @@
  <img src="https://github.com/GabySena/GabySena/blob/main/assets/gaby.banner.png">
 </div>
 
-<div align="center">
- <img height="210em" src="https://github.com/GabySena/GabySena/blob/main/assets/ChatGPT%20Image%201%20de%20ago.%20de%202025%2C%2010_53_03.png">
-</div>
- 
-
  <h2>Sobre mim⭐</h2>
 
  <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>

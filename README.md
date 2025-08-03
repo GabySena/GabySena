@@ -48,6 +48,9 @@
  </a>
 </div>
 
+<br>
+<br>
+
 <div>
  <img src="https://github.com/GabySena/GabySena/blob/main/assets/download.gif">
 </div>

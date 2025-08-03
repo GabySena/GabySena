@@ -20,10 +20,10 @@
  <p>Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
  <h4>Soft skills🧠</h4> 
  <p>
-- Trabalho em equipe 🤝  
-- Proatividade e autonomia 🚀  
-- Organização e gestão do tempo 📅  
-- Criatividade e pensamento crítico 💡  
+- Trabalho em equipe 🤝<br>  
+- Proatividade e autonomia 🚀 <br>
+- Organização e gestão do tempo 📅 <br>  
+- Criatividade e pensamento crítico 💡 <br>
 - Resiliência e vontade de aprender 🌻
 </p>
 

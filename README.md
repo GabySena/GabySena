@@ -48,10 +48,13 @@
  </a>
 </div>
 
+<br>
 
+<div align="center">
 <p>
  <em>Além da tecnologia, também sou apaixonada por arte. Música, livros, dança e pintura fazem parte da minha essência — acredito que a criatividade que coloco no código nasce também desses outros mundos que me inspiram.</em>
 </p>
+</div>
 
 <br>
 <br>

@@ -48,9 +48,9 @@
  </a>
 </div>
 
-<h2>Curiosidade🎨</h2>
+
 <p>
- Além da tecnologia, também sou apaixonada por arte. Música, livros, dança e pintura fazem parte da minha essência — acredito que a criatividade que coloco no código nasce também desses outros mundos que me inspiram.
+ <em>Além da tecnologia, também sou apaixonada por arte. Música, livros, dança e pintura fazem parte da minha essência — acredito que a criatividade que coloco no código nasce também desses outros mundos que me inspiram.</em>
 </p>
 
 <br>

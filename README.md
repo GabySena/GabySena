@@ -30,7 +30,7 @@
 <h4>🌟 “Aventure-se. É só o que você tem a fazer. Às vezes, o mundo está esperando por você.”</h4>
 
 
- <h2>Tecnologias e ferramentas que uso 🛠</h2>
+ <h2>Tecnologias que uso 🛠</h2>
  <p align="left">
   <img src="https://img.shields.io/badge/HTML5-f3aeba?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-f3aeba?style=for-the-badge&logo=css3&logoColor=white" />

@@ -1,5 +1,5 @@
 <div>
- <img src="https://github.com/GabySena/GabySena/blob/main/assetss/gaby.banner.png">
+ <img src="https://github.com/GabySena/GabySena/blob/main/assetss/gaby.sena.png">
 </div>
 
 <p align="center">

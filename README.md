@@ -40,14 +40,6 @@
   <img src="https://img.shields.io/badge/VS Code-f3aeba?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<h2>Estatísticas⭐</h2>
-<div align="center">
- <a href="https://github.com/GabySena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabySena&show_icons=true&theme=radical" alt="GabySena's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabySena&layout=compact&langs_count=10&theme=dracula"/>
- </a>
-</div>
-
 <br>
 
 <div align="center">

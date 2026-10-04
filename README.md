@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF94C9&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF94C9&width=435&lines=Sobre+mim" alt="Typing SVG" /></a>
+<h2 color=FF94C9> Sobre mim </h2>
 
  <p>Formada no curso técnico de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
  <h4>Soft skills🧠</h4> 

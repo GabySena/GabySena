@@ -6,9 +6,6 @@
   <a href="www.linkedin.com/in/gabrielly-sena-233aaa359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn"          >
   </a>
-  <a href="ribeirodelimasena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Email"                >
-  </a>
   <a href="https://portfolio-gaby.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">
   </a>

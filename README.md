@@ -1,4 +1,9 @@
-
+<div align="center">
+  <img
+    src="https://www.image2url.com/r2/default/gifs/1791222407743-f2e19d16-1300-4e3b-aff9-f51ee1476e09.gif"
+    alt="Gaby programando"
+  >
+</div>
 <p align="center">
   <a href="www.linkedin.com/in/gabrielly-sena-233aaa359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn"          >

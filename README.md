@@ -12,9 +12,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF94C9&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<h2 color=FF94C9> ✦ Sobre mim </h2>
+<h2 style="color: #FF94C9;"> ✦ Sobre mim </h2>
 
- <p>- Formada no curso técnico de Desenvolvimento de
+ <p>
+- Formada no curso técnico de Desenvolvimento de
 Sistemas no SENAI e, atualmente, graduanda em
 Engenharia de Software.
 
@@ -26,7 +27,7 @@ para o desenvolvimento web.
 - Gosto de explorar a área de back-end, mas também
 tenho interesse especial por UI/UX e projetos criativos.</p>
 
- <h2 color=FF94C9> ✦ Soft skills</h2> 
+ <h2 style="color: #FF94C9;"> ✦ Soft skills</h2> 
  <p>
 - Trabalho em equipe <br>  
 - Proatividade e autonomia <br>

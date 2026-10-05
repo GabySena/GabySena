@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF94C9&width=500&height=60&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=5006&pause=1001&color=FF94C9&width=500&height=60&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
 <h2 style="color: #FF94C9;"> ✦ Sobre mim </h2>

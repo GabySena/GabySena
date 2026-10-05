@@ -11,7 +11,7 @@
   <a href="https://portfolio-gaby.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio">
   </a>
-</p>
+</p> <br>
 
 
 

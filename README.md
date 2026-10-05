@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://www.image2url.com/r2/default/gifs/1791221926462-13112640-a5f4-49cd-8aa8-01872d6e28c3.gif">
-</div>
+
 <p align="center">
   <a href="www.linkedin.com/in/gabrielly-sena-233aaa359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff94c9?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="LinkedIn"          >

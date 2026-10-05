@@ -12,16 +12,27 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF94C9&width=435&lines=Ol%C3%A1%2C+Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<h2 color=FF94C9> Sobre mim </h2>
+<h2 color=FF94C9> ✦ Sobre mim </h2>
 
- <p>Formada no curso técnico de Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia, programação e design. Tenho conhecimentos em HTML, CSS, Python, lógica de programação e banco de dados, e atualmente estou me aprofundando em JavaScript e frameworks voltados para o desenvolvimento web. Gosto de explorar a área de back-end, mas também com interesse especial por UI/UX e projetos criativo. Estou sempre em busca de aprender coisas novas, desenvolver projetos e crescer profissionalmente na área de tecnologia.</p>
- <h4>Soft skills🧠</h4> 
+ <p>- Formada no curso técnico de Desenvolvimento de
+Sistemas no SENAI e, atualmente, graduanda em
+Engenharia de Software.
+
+- Tenho conhecimentos em HTML, CSS, Python, lógica
+de programação e banco de dados. Atualmente, estou
+me aprofundando em JavaScript e frameworks voltados
+para o desenvolvimento web.
+
+- Gosto de explorar a área de back-end, mas também
+tenho interesse especial por UI/UX e projetos criativos.</p>
+
+ <h2 color=FF94C9> ✦ Soft skills</h2> 
  <p>
-- Trabalho em equipe 🤝<br>  
-- Proatividade e autonomia 🚀 <br>
-- Organização e gestão do tempo⏰ <br>  
-- Criatividade e pensamento crítico 💡 <br>
-- Resiliência e vontade de aprender 🌻
+- Trabalho em equipe <br>  
+- Proatividade e autonomia <br>
+- Organização e gestão do tempo <br>  
+- Criatividade e pensamento crítico <br>
+- Resiliência e vontade de aprender
 </p>
 
 <h4>🌟 “Aventure-se. É só o que você tem a fazer. Às vezes, o mundo está esperando por você.”</h4>

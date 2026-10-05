@@ -26,7 +26,7 @@
 </div>
 
 
-<h2 style="color: #FF94C9;"> ✦ Sobre mim </h2>
+<h2 style="color: pink;"> ✦ Sobre mim </h2>
 
  <p>
 - Formada no curso técnico de Desenvolvimento de
